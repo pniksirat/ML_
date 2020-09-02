@@ -1,0 +1,26 @@
+{
+    "python.testing.pytestArgs": [
+        "."
+    ],
+
+
+    "python.autoComplete.extraPaths": [
+        "C:/Program Files (x86)/Google/google_appengine",
+        "C:/Program Files (x86)/Google/google_appengine/lib/flask-0.12",
+        "~/google-cloud-sdk/platform/google_appengine/lib/webapp2-2.5.2",
+        "~/google-cloud-sdk/platform/google_appengine",
+        "~/google-cloud-sdk/lib",
+        "~/google-cloud-sdk/platform/google_appengine/lib/endpoints-1.0",
+        "~/google-cloud-sdk/platform/google_appengine/lib/protorpc-1.0",
+        "C:\\Users\\pniksirat\\AppData\\Local\\Programs\\Python\\Python38-32\\python38.zip",
+        "C:\\Users\\pniksirat\\AppData\\Local\\Programs\\Python\\Python38-32\\DLLs",
+        "C:\\Users\\pniksirat\\AppData\\Local\\Programs\\Python\\Python38-32\\lib",
+        "C:\\Users\\pniksirat\\AppData\\Local\\Programs\\Python\\Python38-32",
+        "C:\\Users\\pniksirat\\AppData\\Roaming\\Python\\Python38\\site-packages",
+        "C:\\Users\\pniksirat\\AppData\\Local\\Programs\\Python\\Python38-32\\lib\\site-packages",
+],
+
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
